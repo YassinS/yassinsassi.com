@@ -5,3 +5,19 @@ theme = "nightfall"
 
 [params]
 footerHtml = '© 2025 Yassin Sassi'
+user = "yassin"
+hostname = "yassinsassi.com"
+    [params.author]
+    name = "Yassin Sassi"
+
+[menu]
+   [[menu.header]]
+    name = "about me"
+    weight = 0
+    url = "/about"
+  [[menu.header]]
+    name = "posts"
+    weight = 10
+    url = "/posts"
+
+    
