@@ -1,0 +1,7 @@
+baseURL = 'https://yassinsassi.com/'
+languageCode = 'en-us'
+title = 'Yassins Blog'
+theme = "nightfall"
+
+[params]
+footerHtml = '© 2025 Yassin Sassi'
