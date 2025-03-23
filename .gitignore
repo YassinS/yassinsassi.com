@@ -1,0 +1,22 @@
+# Hugo output
+/public/
+/resources/_gen/
+/hugo_stats.json
+
+# Node stuff (if using npm for Sass, Tailwind, etc.)
+node_modules/
+package-lock.json
+
+# OS/Editor cruft
+.DS_Store
+Thumbs.db
+
+# Hugo cache (optional)
+.cache/
+hugo_cache/
+
+# VSCode settings (optional)
+.vscode/
+
+# Build artifacts
+*.log
