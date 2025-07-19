@@ -7,3 +7,13 @@ title = 'Mystery'
 # WHO IS THIS
 ![Mystery](/mystery.jpeg)
 # WANTED DEAD OR ALIVE
+
+This man has last been seen accompanied by the mystery girl.
+
+![Victim](/kidnapping.jpeg)
+
+# HELP
+
+## Known associates
+
+![Crook](/dog.jpeg)
